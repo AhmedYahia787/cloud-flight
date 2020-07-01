@@ -1,0 +1,64 @@
+.option-box .Color-option{
+    
+    border: 4px solid #6666ff; 
+    
+}
+
+.dropdown-menu{
+    
+    border-top: 3px solid #6666ff;
+} 
+.navbar-brand span,
+.about h1 span,
+.test span,
+.Features .feat svg
+{
+    
+    color:  #6666ff;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+   color:  #6666ff;
+}
+
+.test .carousel-indicators li.active,
+.table .box:hover p
+{
+border: 2px solid #6666ff;
+}
+
+.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active {
+    color: #6666ff;
+}
+
+#news .inner input.button {
+
+    background-color: #6666ff;
+    border: 1px solid #6666ff;
+}
+
+
+
+
+.footer-menu li:hover a{
+  color: #6666ff;
+}
+
+.copyright-text p a{
+  color: #6666ff;
+}
+
+
+.footer-widget ul li a:hover{
+  color: #6666ff;
+}
+
+
+
+.footer-widget-heading h3::before {
+  background: #6666ff;
+}
+
+.single-cta i {
+  color: #6666ff;
+}

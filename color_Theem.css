@@ -1,0 +1,65 @@
+.option-box .Color-option{
+    
+    border: 4px solid #E41B17; 
+    
+}
+
+.dropdown-menu{
+    
+    border-top: 3px solid #E41B17;
+} 
+.navbar-brand span,
+.about h1 span,
+.test span,
+.Features .feat svg
+{
+    
+    color:  #E41B17;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+   color:  #E41B17;
+}
+
+.test .carousel-indicators li.active,
+.table .box:hover p
+{
+border: 2px solid #E41B17;
+}
+
+.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active {
+    color: #E41B17;
+}
+
+
+#news .inner input.button {
+
+    background-color: #E41B17;
+    border: 1px solid #E41B17;
+}
+
+
+
+
+.footer-menu li:hover a{
+  color: #E41B17;
+}
+
+.copyright-text p a{
+  color: #E41B17;
+}
+
+
+.footer-widget ul li a:hover{
+  color: #E41B17;
+}
+
+
+
+.footer-widget-heading h3::before {
+  background: #E41B17;
+}
+
+.single-cta i {
+  color: #E41B17;
+}
